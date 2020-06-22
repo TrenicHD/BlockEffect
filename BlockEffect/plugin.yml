@@ -1,0 +1,10 @@
+name: BlockEffect
+author: TrenicHD
+main: TrenicHD\Main
+version: 1.0.0
+description: ein BlockEffekt Plugin
+api: [3.0.0 , 4.0.0]
+
+commands:
+  eb:
+    description: §cEffectBlock by TrenicHD
